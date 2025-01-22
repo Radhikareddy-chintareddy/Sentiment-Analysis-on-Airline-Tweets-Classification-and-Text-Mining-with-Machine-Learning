@@ -1,0 +1,2 @@
+# Sentiment Analysis on Airline Tweets Classification and Text Mining with Machine Learning
+ analyzing and classifying sentiment from airline-related tweets. Using text mining and machine learning techniques, it categorizes tweets into positive, negative, or neutral sentiments, providing insights into customer feedback and airline reputation. The project involves preprocessing text data, feature extraction, and implementing classification algorithms for sentiment prediction.
